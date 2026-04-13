@@ -47,7 +47,6 @@ const PLANS: Plan[] = [
     priceQuarterly: '$67.500',
     icon: TrendingUp,
     highlight: true,
-    ribbon: 'Mas elegido',
     features: [
       'Instrumento del Dia',
       'Informes de Valor Razonable',
